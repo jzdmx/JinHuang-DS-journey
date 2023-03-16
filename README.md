@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my profolio!
+### Hi there 👋 Welcome to Jin's Data Science Profolio!
 
 - 🔭 My name is Jin and I recently graduated with a Master of Data Science from Durham University. I am passionate about exploring the exciting world of data and all the possibilities it holds!
 
