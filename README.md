@@ -5,35 +5,6 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
 - 🔭 My name is Jin and I am a mix of data analyst and data scientist, I recently started to get involved in the data engineering field because I am all about leveraging the power of data to deliver tangible insights!
   
 - On this portfolio page, you'll find a range of end-to-end data science projects. I am dedicated to continuously expanding my skills and knowledge in Data Science and keeping up-to-date with the latest technologies!😎
-  
-## Data Analytics Projects
-
-1. **Project 1 - Data Analytics**
-   - Description: [Brief description of Project 1]
-   - [Link to Project 1 Repository]
-   - **Frameworks/Tech Stack:**
-     - Python
-     - SQL
-     - R
-     - [Additional Frameworks/Libraries Used]
-
-2. **Project 2 - Data Analytics**
-   - Description: [Brief description of Project 2]
-   - [Link to Project 2 Repository]
-   - **Frameworks/Tech Stack:**
-     - Python
-     - SQL
-     - R
-     - [Additional Frameworks/Libraries Used]
-
-3. **Project 3 - Data Analytics**
-   - Description: [Brief description of Project 3]
-   - [Link to Project 3 Repository]
-   - **Frameworks/Tech Stack:**
-     - Python
-     - SQL
-     - R
-     - [Additional Frameworks/Libraries Used]
 
 
 ## Data Science Projects
@@ -62,6 +33,27 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
      - Pandas
      - seaborn
 
+4. **[Project 3 - 1D-CNN-Pytorch-timer-series-classifier](https://github.com/jzdmx/1D-CNN-Pytorch-timer-series-classifier)**
+   -  A timer series classifier can automate detect and classify seismic waves in real-time
+   - **Frameworks/Tech Stack:**
+     - Python
+     - jupyter notebook
+     - Scikit-Learn
+     - Pandas
+     - Pytorch
+
+## Data Analytics Projects
+
+1. **[Project 1 - EDA-wholesale-data](https://github.com/jzdmx/EDA-K-means-and-Hierarchical-Clustering)**
+   - An Exploratory Data Analysis on customers from a Wholesale Distributor
+   - **Frameworks/Tech Stack:**
+     - R
+
+2. **[Project 2 - Customer-shopping-dashboards](https://github.com/jzdmx/Customer-shopping-dashboards)**
+   - A Power BI dashboard to monitor customer shopping status
+   - **Frameworks/Tech Stack:**
+     - Power BI
+     - Power Query
 
 ## Data Engineering Projects
   
