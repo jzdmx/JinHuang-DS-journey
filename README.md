@@ -38,30 +38,30 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
 
 ## Data Science Projects
   
-1. **Project 1 - [Insurance Claim Prediction](https://github.com/jzdmx/Car-Insurance-Claim-Prediction)**
+1. **[Project 1 - Insurance-Claim-Prediction](https://github.com/jzdmx/Car-Insurance-Claim-Prediction)**
    - Description: a random forest model to predict whether the policyholder files a claim in the next 6 months.
    - **Frameworks/Tech Stack:**
      - Python
      - Scikit-Learn
      - Pandas
 
-2. **Project 2 - Data Science**
-   - Description: [Brief description of Project 2]
-   - [Link to Project 2 Repository]
+2. **[Project 2 - K-means-Clustering-for-customer-segmentation](https://github.com/jzdmx/K-means-Clustering-for-customer-segmentation)**
+   - Description: a K-Means Clustering model to segment customers into 5 distinct groups for a retailer
    - **Frameworks/Tech Stack:**
      - Python
      - Scikit-Learn
      - Pandas
-     - [Additional Frameworks/Libraries Used]
+     - matplotlib
 
-3. **Project 3 - Data Science**
-   - Description: [Brief description of Project 3]
-   - [Link to Project 3 Repository]
+3. **[Project 3 - XGBoost-Customer-Churn-Prediction](https://github.com/jzdmx/Customer-Churn-Prediction-XGBoost)**
+   - Description: an XGBoost classifier to predict customer churn rates
    - **Frameworks/Tech Stack:**
      - Python
+     - jupyter notebook
      - Scikit-Learn
      - Pandas
-     - [Additional Frameworks/Libraries Used]
+     - seaborn
+
 
 ## Data Engineering Projects
   
