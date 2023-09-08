@@ -6,16 +6,8 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
   
 - On this portfolio page, you'll find a range of end-to-end data science projects. I am dedicated to continuously expanding my skills and knowledge in Data Science and keeping up-to-date with the latest technologies!😎
   
-## Projects
+## Data Analytics Projects
 
-1. **Project 1**
-   - Description: [Brief description of Project 1]
-   - [Link to Project 1 Repository]
-   - Technologies: [List the major technologies used]
-
-<details>
-<summary>Data Analytics</summary>
-  
 1. **Project 1 - Data Analytics**
    - Description: [Brief description of Project 1]
    - [Link to Project 1 Repository]
@@ -43,10 +35,8 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
      - R
      - [Additional Frameworks/Libraries Used]
 
-</details>
 
-<details>
-<summary>Data Science</summary>
+## Data Science Projects
   
 1. **Project 1 - Data Science**
    - [Insurance Claim Prediction](https://github.com/jzdmx/Car-Insurance-Claim-Prediction)
@@ -75,10 +65,7 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
      - Pandas
      - [Additional Frameworks/Libraries Used]
 
-</details>
-
-<details>
-<summary>Data Engineering</summary>
+## Data Engineering Projects
   
 1. **Project 1 - Data Engineering**
    - Description: [Brief description of Project 1]
@@ -89,25 +76,6 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
      - Apache Spark
      - [Additional Frameworks/Libraries Used]
 
-2. **Project 2 - Data Engineering**
-   - Description: [Brief description of Project 2]
-   - [Link to Project 2 Repository]
-   - **Frameworks/Tech Stack:**
-     - Python
-     - SQL
-     - Apache Spark
-     - [Additional Frameworks/Libraries Used]
-
-3. **Project 3 - Data Engineering**
-   - Description: [Brief description of Project 3]
-   - [Link to Project 3 Repository]
-   - **Frameworks/Tech Stack:**
-     - Python
-     - SQL
-     - Apache Spark
-     - [Additional Frameworks/Libraries Used]
-
-</details>
 
 ## Skills
 My skill set includes proficiency in the following major frameworks and libraries:
