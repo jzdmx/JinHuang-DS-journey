@@ -9,14 +9,14 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
 
 ## Data Science Projects
   
-1. **[Project 1 - Insurance-Claim-Prediction](https://github.com/jzdmx/Car-Insurance-Claim-Prediction)**
+1. **[Project 1 - Insurance Claim Prediction](https://github.com/jzdmx/Car-Insurance-Claim-Prediction)**
    - A random forest model to predict whether the policyholder files a claim in the next 6 months.
    - **Frameworks/Tech Stack:**
      - Python
      - Scikit-Learn
      - Pandas
 
-2. **[Project 2 - K-means-Clustering-for-customer-segmentation](https://github.com/jzdmx/K-means-Clustering-for-customer-segmentation)**
+2. **[Project 2 - K-means Clustering for customer segmentation](https://github.com/jzdmx/K-means-Clustering-for-customer-segmentation)**
    - A K-Means Clustering model to segment customers into 5 distinct groups for a retailer
    - **Frameworks/Tech Stack:**
      - Python
@@ -24,7 +24,7 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
      - Pandas
      - matplotlib
 
-3. **[Project 3 - XGBoost-Customer-Churn-Prediction](https://github.com/jzdmx/Customer-Churn-Prediction-XGBoost)**
+3. **[Project 3 - XGBoost Customer Churn Prediction](https://github.com/jzdmx/Customer-Churn-Prediction-XGBoost)**
    - An XGBoost classifier to predict customer churn rates
    - **Frameworks/Tech Stack:**
      - Python
@@ -33,8 +33,8 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
      - Pandas
      - seaborn
 
-4. **[Project 3 - 1D-CNN-Pytorch-timer-series-classifier](https://github.com/jzdmx/1D-CNN-Pytorch-timer-series-classifier)**
-   -  A timer series classifier can automate detect and classify seismic waves in real-time
+4. **[Project 3 - 1D-CNN Pytorch timer series classifier](https://github.com/jzdmx/1D-CNN-Pytorch-timer-series-classifier)**
+   -  A timer series classifier can automate detection and classify seismic waves in real-time
    - **Frameworks/Tech Stack:**
      - Python
      - jupyter notebook
@@ -44,12 +44,12 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
 
 ## Data Analytics Projects
 
-1. **[Project 1 - EDA-wholesale-data](https://github.com/jzdmx/EDA-K-means-and-Hierarchical-Clustering)**
+1. **[Project 1 - EDA wholesale data](https://github.com/jzdmx/EDA-K-means-and-Hierarchical-Clustering)**
    - An Exploratory Data Analysis on customers from a Wholesale Distributor
    - **Frameworks/Tech Stack:**
      - R
 
-2. **[Project 2 - Customer-shopping-dashboards](https://github.com/jzdmx/Customer-shopping-dashboards)**
+2. **[Project 2 - Customer shopping dashboards](https://github.com/jzdmx/Customer-shopping-dashboards)**
    - A Power BI dashboard to monitor customer shopping status
    - **Frameworks/Tech Stack:**
      - Power BI
@@ -57,7 +57,7 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
 
 ## Data Engineering Projects
   
-1. **[Project 1 - Azure-End-to-End-Data-Engineering-Project](https://github.com/jzdmx/Azure-End-to-End-Data-Engineering-Project)**
+1. **[Project 1 - Azure End-to-End Data-Engineering Project](https://github.com/jzdmx/Azure-End-to-End-Data-Engineering-Project)**
    - An end-to-end data engineering project 
    - **Frameworks/Tech Stack:**
      - Azure Data Factory
