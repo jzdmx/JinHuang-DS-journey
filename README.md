@@ -1,8 +1,7 @@
 # Jin's Data Science Portfolio!
-
-## Summary
 Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast with a strong background in Data Science. My journey in the world of technology and data-driven solutions has led me to work on various projects that showcase my skills and expertise.
 
+## Summary
 - 🔭 My name is Jin and I am a mix of data analyst and data scientist, I recently started to get involved in the data engineering field because I am all about leveraging the power of data to deliver tangible insights!
   
 - On this portfolio page, you'll find a range of end-to-end data science projects. I am dedicated to continuously expanding my skills and knowledge in Data Science and keeping up-to-date with the latest technologies!😎
