@@ -38,14 +38,12 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
 
 ## Data Science Projects
   
-1. **Project 1 - Data Science**
-   - [Insurance Claim Prediction](https://github.com/jzdmx/Car-Insurance-Claim-Prediction)
+1. **Project 1 - [Insurance Claim Prediction](https://github.com/jzdmx/Car-Insurance-Claim-Prediction)**
    - Description: a random forest model to predict whether the policyholder files a claim in the next 6 months.
    - **Frameworks/Tech Stack:**
      - Python
      - Scikit-Learn
      - Pandas
-     - [Additional Frameworks/Libraries Used]
 
 2. **Project 2 - Data Science**
    - Description: [Brief description of Project 2]
