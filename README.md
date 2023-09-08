@@ -8,6 +8,11 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
   
 ## Projects
 
+1. **Project 1**
+   - Description: [Brief description of Project 1]
+   - [Link to Project 1 Repository]
+   - Technologies: [List the major technologies used]
+
 <details>
 <summary>Data Analytics</summary>
   
