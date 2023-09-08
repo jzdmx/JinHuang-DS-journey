@@ -6,6 +6,11 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
   
 - On this portfolio page, you'll find a range of end-to-end data science projects. I am dedicated to continuously expanding my skills and knowledge in Data Science and keeping up-to-date with the latest technologies!😎
   
+## Contact Information
+Feel free to reach out to me through the following channels:
+- Email: [jinhuang678@gmail.com]
+- LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/jin-huang-data-science/)]
+  
 ## Projects
 Here's a list of some of my notable projects:
 
@@ -77,12 +82,7 @@ Here are some of my certificates and qualifications:
 - [Certificate 2](Link to Certificate 2)
 - [Certificate 3](Link to Certificate 3)
 
-## Contact Information
-Feel free to reach out to me through the following channels:
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
-- Website: [Your Personal Website]
+
 
 
 <!--
