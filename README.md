@@ -80,6 +80,7 @@ My skill set includes proficiency in the following major frameworks and librarie
 - NumPy
 - Pandas
 - SciPy
+- Cloud Computing
 
 ## Certificates
 Here are some of my certificates and qualifications:
