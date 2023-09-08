@@ -39,14 +39,14 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
 ## Data Science Projects
   
 1. **[Project 1 - Insurance-Claim-Prediction](https://github.com/jzdmx/Car-Insurance-Claim-Prediction)**
-   - Description: a random forest model to predict whether the policyholder files a claim in the next 6 months.
+   - A random forest model to predict whether the policyholder files a claim in the next 6 months.
    - **Frameworks/Tech Stack:**
      - Python
      - Scikit-Learn
      - Pandas
 
 2. **[Project 2 - K-means-Clustering-for-customer-segmentation](https://github.com/jzdmx/K-means-Clustering-for-customer-segmentation)**
-   - Description: a K-Means Clustering model to segment customers into 5 distinct groups for a retailer
+   - A K-Means Clustering model to segment customers into 5 distinct groups for a retailer
    - **Frameworks/Tech Stack:**
      - Python
      - Scikit-Learn
@@ -54,7 +54,7 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
      - matplotlib
 
 3. **[Project 3 - XGBoost-Customer-Churn-Prediction](https://github.com/jzdmx/Customer-Churn-Prediction-XGBoost)**
-   - Description: an XGBoost classifier to predict customer churn rates
+   - An XGBoost classifier to predict customer churn rates
    - **Frameworks/Tech Stack:**
      - Python
      - jupyter notebook
@@ -65,14 +65,16 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
 
 ## Data Engineering Projects
   
-1. **Project 1 - Data Engineering**
-   - Description: [Brief description of Project 1]
-   - [Link to Project 1 Repository]
+1. **[Project 1 - Azure-End-to-End-Data-Engineering-Project](https://github.com/jzdmx/Azure-End-to-End-Data-Engineering-Project)**
+   - An end-to-end data engineering project 
    - **Frameworks/Tech Stack:**
-     - Python
+     - Azure Data Factory
+     - Azure Synapse studio
      - SQL
      - Apache Spark
-     - [Additional Frameworks/Libraries Used]
+     - Databricks
+     - Lakehouse
+    
 
 
 ## Skills
