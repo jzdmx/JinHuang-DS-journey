@@ -9,60 +9,105 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
 ## Contact Information
 Feel free to reach out to me through the following channels:
 - Email: [jinhuang678@gmail.com]
-- LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/jin-huang-data-science/)]
-  
-## Projects
-Here's a list of some of my notable projects:
+- LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/jin-huang-data-science/)]
 
-1. **Project 1**
+## Projects
+
+<details>
+<summary>Data Analytics</summary>
+  
+1. **Project 1 - Data Analytics**
    - Description: [Brief description of Project 1]
    - [Link to Project 1 Repository]
-   - Technologies: [List the major technologies used]
+   - **Frameworks/Tech Stack:**
+     - Python
+     - SQL
+     - R
+     - [Additional Frameworks/Libraries Used]
 
-2. **Project 2**
+2. **Project 2 - Data Analytics**
    - Description: [Brief description of Project 2]
    - [Link to Project 2 Repository]
-   - Technologies: [List the major technologies used]
+   - **Frameworks/Tech Stack:**
+     - Python
+     - SQL
+     - R
+     - [Additional Frameworks/Libraries Used]
 
-3. **Project 3**
+3. **Project 3 - Data Analytics**
    - Description: [Brief description of Project 3]
    - [Link to Project 3 Repository]
-   - Technologies: [List the major technologies used]
+   - **Frameworks/Tech Stack:**
+     - Python
+     - SQL
+     - R
+     - [Additional Frameworks/Libraries Used]
 
-4. **Project 4**
-   - Description: [Brief description of Project 4]
-   - [Link to Project 4 Repository]
-   - Technologies: [List the major technologies used]
+</details>
 
-5. **Project 5**
-   - Description: [Brief description of Project 5]
-   - [Link to Project 5 Repository]
-   - Technologies: [List the major technologies used]
+<details>
+<summary>Data Science</summary>
+  
+1. **Project 1 - Data Science**
+   - Description: [Brief description of Project 1]
+   - [Link to Project 1 Repository]
+   - **Frameworks/Tech Stack:**
+     - Python
+     - Scikit-Learn
+     - Pandas
+     - [Additional Frameworks/Libraries Used]
 
-6. **Project 6**
-   - Description: [Brief description of Project 6]
-   - [Link to Project 6 Repository]
-   - Technologies: [List the major technologies used]
+2. **Project 2 - Data Science**
+   - Description: [Brief description of Project 2]
+   - [Link to Project 2 Repository]
+   - **Frameworks/Tech Stack:**
+     - Python
+     - Scikit-Learn
+     - Pandas
+     - [Additional Frameworks/Libraries Used]
 
-7. **Project 7**
-   - Description: [Brief description of Project 7]
-   - [Link to Project 7 Repository]
-   - Technologies: [List the major technologies used]
+3. **Project 3 - Data Science**
+   - Description: [Brief description of Project 3]
+   - [Link to Project 3 Repository]
+   - **Frameworks/Tech Stack:**
+     - Python
+     - Scikit-Learn
+     - Pandas
+     - [Additional Frameworks/Libraries Used]
 
-8. **Project 8**
-   - Description: [Brief description of Project 8]
-   - [Link to Project 8 Repository]
-   - Technologies: [List the major technologies used]
+</details>
 
-9. **Project 9**
-   - Description: [Brief description of Project 9]
-   - [Link to Project 9 Repository]
-   - Technologies: [List the major technologies used]
+<details>
+<summary>Data Engineering</summary>
+  
+1. **Project 1 - Data Engineering**
+   - Description: [Brief description of Project 1]
+   - [Link to Project 1 Repository]
+   - **Frameworks/Tech Stack:**
+     - Python
+     - SQL
+     - Apache Spark
+     - [Additional Frameworks/Libraries Used]
 
-10. **Project 10**
-    - Description: [Brief description of Project 10]
-    - [Link to Project 10 Repository]
-    - Technologies: [List the major technologies used]
+2. **Project 2 - Data Engineering**
+   - Description: [Brief description of Project 2]
+   - [Link to Project 2 Repository]
+   - **Frameworks/Tech Stack:**
+     - Python
+     - SQL
+     - Apache Spark
+     - [Additional Frameworks/Libraries Used]
+
+3. **Project 3 - Data Engineering**
+   - Description: [Brief description of Project 3]
+   - [Link to Project 3 Repository]
+   - **Frameworks/Tech Stack:**
+     - Python
+     - SQL
+     - Apache Spark
+     - [Additional Frameworks/Libraries Used]
+
+</details>
 
 ## Skills
 My skill set includes proficiency in the following major frameworks and libraries:
