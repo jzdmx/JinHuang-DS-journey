@@ -90,8 +90,8 @@ Here are some of my certificates and qualifications:
 
 ## Contact Information
 Feel free to reach out to me through the following channels:
-- Email: [jinhuang678@gmail.com]
-- LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/jin-huang-data-science/)]
+- 📮 [jinhuang678@gmail.com]
+- 🔗 [LinkedIn]](https://www.linkedin.com/in/jin-huang-data-science/)
 
 
 
