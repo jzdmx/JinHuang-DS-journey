@@ -6,11 +6,6 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
   
 - On this portfolio page, you'll find a range of end-to-end data science projects. I am dedicated to continuously expanding my skills and knowledge in Data Science and keeping up-to-date with the latest technologies!😎
   
-## Contact Information
-Feel free to reach out to me through the following channels:
-- Email: [jinhuang678@gmail.com]
-- LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/jin-huang-data-science/)]
-
 ## Projects
 
 <details>
@@ -49,8 +44,8 @@ Feel free to reach out to me through the following channels:
 <summary>Data Science</summary>
   
 1. **Project 1 - Data Science**
-   - Description: [Brief description of Project 1]
-   - [Link to Project 1 Repository]
+   - Description: [Car-Insurance-Claim-Prediction]
+   - [https://github.com/jzdmx/Car-Insurance-Claim-Prediction]
    - **Frameworks/Tech Stack:**
      - Python
      - Scikit-Learn
@@ -127,6 +122,10 @@ Here are some of my certificates and qualifications:
 - [Certificate 2](Link to Certificate 2)
 - [Certificate 3](Link to Certificate 3)
 
+## Contact Information
+Feel free to reach out to me through the following channels:
+- Email: [jinhuang678@gmail.com]
+- LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/jin-huang-data-science/)]
 
 
 
