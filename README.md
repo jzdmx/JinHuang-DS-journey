@@ -66,10 +66,14 @@ Welcome to my GitHub portfolio! I am a passionate and dedicated data enthusiast 
      - Apache Spark
      - Databricks
      - Lakehouse
-    
-
 
 ## Skills
+My skill set includes proficiency in the following major frameworks and libraries:
+- Data Analytics
+- Machine Learning
+- Deep Learning
+
+## Tech stack
 My skill set includes proficiency in the following major frameworks and libraries:
 - Python
 - SQL
@@ -81,12 +85,6 @@ My skill set includes proficiency in the following major frameworks and librarie
 - Pandas
 - SciPy
 - Cloud Computing
-
-## Certificates
-Here are some of my certificates and qualifications:
-- [Certificate 1](Link to Certificate 1)
-- [Certificate 2](Link to Certificate 2)
-- [Certificate 3](Link to Certificate 3)
 
 ## Contact Information
 Feel free to reach out to me through the following channels:
